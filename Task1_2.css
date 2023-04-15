@@ -1,0 +1,29 @@
+.text-center{
+    text-align: center;
+    background-color: rgb(210, 251, 87);
+  }
+  
+  .bg-red{
+    background: red;
+  }
+  
+  .mx-auto{
+    margin: auto;
+  }
+  
+  .flex{
+    display:flex;
+  } 
+  .flex-col{
+    flex-direction: column;
+  }
+  
+  .items-center{
+    align-items: center;
+  }
+
+  footer{
+    background-color: rgb(215, 56, 56);
+    color: rgb(40, 39, 39);
+    
+  }
